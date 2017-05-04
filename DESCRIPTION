@@ -1,0 +1,16 @@
+Package: TxDb.TcruziCLBrenerEsmer.tritryp32.genes
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from TriTrypDB 32 by exposing these as TxDb objects
+Version: 32.0
+Author: Keith Hughitt <khughitt@umd.edu> [cre]
+Maintainer: Keith Hughitt <khughitt@umd.edu>
+Depends: GenomicFeatures (>= 1.28.0)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Trypanosoma cruzi CL Brener Esmeraldo-like
+species: Trypanosoma cruzi CL Brener Esmeraldo-like
+provider: TriTrypDB
+provider_version: 32
+release_date: 2017-05-04 11:27:28 -0400 (Thu, 04 May 2017)
+resource_url: http://tritrypdb.org/tritrypdb/
+biocViews: AnnotationData, Genetics, TxDb, Trypanosoma_cruzi
