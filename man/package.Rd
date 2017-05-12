@@ -21,7 +21,7 @@
 
 \note{
   This data package was made from resources at TriTrypDB on
-  2017-05-04 11:27:28 -0400 (Thu, 04 May 2017) and based on the 32
+  2017-05-12 08:38:18 -0400 (Fri, 12 May 2017) and based on the 32
 }
 
 \author{Keith Hughitt <khughitt@umd.edu> [cre]}

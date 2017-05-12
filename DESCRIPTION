@@ -11,6 +11,6 @@ organism: Trypanosoma cruzi CL Brener Esmeraldo-like
 species: Trypanosoma cruzi CL Brener Esmeraldo-like
 provider: TriTrypDB
 provider_version: 32
-release_date: 2017-05-04 11:27:28 -0400 (Thu, 04 May 2017)
+release_date: 2017-05-12 08:38:18 -0400 (Fri, 12 May 2017)
 resource_url: http://tritrypdb.org/tritrypdb/
 biocViews: AnnotationData, Genetics, TxDb, Trypanosoma_cruzi
